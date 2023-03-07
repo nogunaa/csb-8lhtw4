@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://nogunaa.github.io/csb-8lhtw4/static/css/main.e78df286.chunk.css",
+    "main.js": "https://nogunaa.github.io/csb-8lhtw4/static/js/main.d5031886.chunk.js",
+    "main.js.map": "https://nogunaa.github.io/csb-8lhtw4/static/js/main.d5031886.chunk.js.map",
+    "runtime-main.js": "https://nogunaa.github.io/csb-8lhtw4/static/js/runtime-main.aa914adf.js",
+    "runtime-main.js.map": "https://nogunaa.github.io/csb-8lhtw4/static/js/runtime-main.aa914adf.js.map",
+    "static/js/2.97d732ce.chunk.js": "https://nogunaa.github.io/csb-8lhtw4/static/js/2.97d732ce.chunk.js",
+    "static/js/2.97d732ce.chunk.js.map": "https://nogunaa.github.io/csb-8lhtw4/static/js/2.97d732ce.chunk.js.map",
+    "index.html": "https://nogunaa.github.io/csb-8lhtw4/index.html",
+    "static/css/main.e78df286.chunk.css.map": "https://nogunaa.github.io/csb-8lhtw4/static/css/main.e78df286.chunk.css.map",
+    "static/js/2.97d732ce.chunk.js.LICENSE.txt": "https://nogunaa.github.io/csb-8lhtw4/static/js/2.97d732ce.chunk.js.LICENSE.txt",
+    "static/media/camels.34f62558.jpg": "https://nogunaa.github.io/csb-8lhtw4/static/media/camels.34f62558.jpg",
+    "static/media/eagles.1945b4d2.jpg": "https://nogunaa.github.io/csb-8lhtw4/static/media/eagles.1945b4d2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa914adf.js",
+    "static/js/2.97d732ce.chunk.js",
+    "static/css/main.e78df286.chunk.css",
+    "static/js/main.d5031886.chunk.js"
+  ]
+}
